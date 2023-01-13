@@ -1,0 +1,31 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:rgb(122,122,122);
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+width:500px;
+height:800px;
+margin-left:600px;
+background-color:#FFFFFF;
+}
+form{
+margin:20px auto;
+height:650px;
+margin-right:20px;
+margin-left:20px;
+background-color:#CC9933;
+}
+h1{
+font-family:serif;
+text-align:center;
+}
+#Firstname{
+margin-le
